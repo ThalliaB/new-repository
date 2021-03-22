@@ -1,0 +1,18 @@
+header {
+    font-family: 'Suez One', serif;
+}
+
+.cabecalho {
+    background-image: url(../img/destaques1.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.imagem-destaques {
+    height:auto;
+}
+
+.imagem__produtos {
+    height:10em;
+    width: 10em;
+}
